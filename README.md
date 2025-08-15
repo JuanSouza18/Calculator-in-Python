@@ -1,2 +1,1 @@
-I made this calculator to train my logic, train language and train Function, a new concept.
-I did this project based on studies, and I had research support.
+Desenvolvi uma calculadora em Python para praticar conceitos fundamentais de programação, incluindo lógica condicional, funções e manipulação de entrada/saída. O projeto foi criado como exercício de aprendizagem, com apoio de pesquisas para implementar operações básicas (soma, subtração, multiplicação e divisão) e tratamento de erros (como divisão por zero). O objetivo principal foi fortalecer minha compreensão da sintaxe Python e da estruturação de programas, enquanto criava uma ferramenta funcional e interativa via terminal.
